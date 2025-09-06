@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Plus, Settings, BarChart3 } from "lucide-react";
-import useDashboardStore from "../store/dashboardStore";
+import useDashboardStore from "../store/dashBoardStore";
 import Widget from "./Widget";
 import AddWidgetModal from "./AddWidgetModal";
 import WidgetManagementModal from "./WidgetManagementModal";
